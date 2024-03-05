@@ -25,7 +25,7 @@ public class TeleOpMode extends LinearOpMode {
             double gamepadX = -gamepad1.left_stick_x;
             double gamepadY = -gamepad1.left_stick_y;
             double r = Math.hypot(gamepadX, gamepadY);
-
+            //i like cheese
         }
 
     }
